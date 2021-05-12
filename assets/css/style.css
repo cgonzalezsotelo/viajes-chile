@@ -13,7 +13,9 @@ body {
   padding-right: 1rem;
 }
 
-.quienes-somos {
+.quienes-somos,
+.destacados,
+.contacto {
   padding: 3rem 0;
 }
 
@@ -27,6 +29,6 @@ hr {
   text-align: center;
 }
 
-.destacados {
-  padding: 3rem 0;
+.bg-tarjetas {
+  background-color: rgb(12, 218, 218);
 }
