@@ -13,6 +13,20 @@ body {
   padding-right: 1rem;
 }
 
+.quienes-somos {
+  padding: 3rem 0;
+}
+
+hr {
+  background-color: rgb(12, 218, 218);
+}
+
 .iconos {
   color: #ffffff;
+  background-color: rgb(12, 218, 218);
+  text-align: center;
+}
+
+.destacados {
+  padding: 3rem 0;
 }
