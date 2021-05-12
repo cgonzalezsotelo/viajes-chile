@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+.logo {
+  max-width: 10%;
+  padding-right: 1rem;
+}
