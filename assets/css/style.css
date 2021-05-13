@@ -25,6 +25,11 @@ hr {
   background-color: rgb(12, 218, 218);
 }
 
+.subtitulos {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
 .iconos {
   color: #ffffff;
   background-color: rgb(12, 218, 218);
