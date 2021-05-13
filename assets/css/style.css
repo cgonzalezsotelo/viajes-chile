@@ -2,15 +2,16 @@
   margin: 0;
   border: 0;
   padding: 0;
+  scroll-behavior: smooth;
 }
 
 body {
   background-color: black;
-  scroll-behavior: smooth;
+  font-family: "Roboto", sans-serif;
 }
 
 .logo {
-  max-width: 10%;
+  max-width: 3.4rem;
   padding-right: 1rem;
 }
 
@@ -36,15 +37,15 @@ hr {
 
 .footer {
   background-color: rgb(12, 218, 218);
-  padding: 1.5rem 0;
+  padding: 1rem 0;
 }
 
 .footer p {
-  font-size: 3rem;
+  font-size: 2.5rem;
   text-transform: uppercase;
 }
 
 .footer i {
   font-size: 3rem;
-  padding-right: 1rem;
+  padding: 0.5rem 1rem 0 0;
 }
