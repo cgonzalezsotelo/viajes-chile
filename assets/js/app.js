@@ -1,7 +1,7 @@
 // habilitación tooltips bootstrap 4.6
 $(function () {
   $('[data-toggle="tooltip"]').tooltip()
-  
+  // Smooth Scroll
   $("a").click(function(event) {
     if (this.hash !== "") {
       event.preventDefault();
